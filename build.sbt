@@ -1,4 +1,4 @@
-name := "play-geo"
+name := "scala-geo"
 
 version := "0.1"
 

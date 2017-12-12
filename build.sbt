@@ -1,5 +1,7 @@
 name := "scala-geo"
 
+organization := "wavein.ch"
+
 version := "0.1"
 
 scalaVersion := "2.11.12"

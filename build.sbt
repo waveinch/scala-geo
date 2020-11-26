@@ -4,7 +4,6 @@ name := "scala-geo"
 
 organization := "ch.wavein"
 
-//version := "0.2-play24"
 
 scalaVersion := "2.11.12"
 
